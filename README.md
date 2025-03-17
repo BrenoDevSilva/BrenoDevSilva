@@ -9,26 +9,24 @@ Java | JavaScript | Python | C++ | C# | Front-end | Back-end
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></code>
-            
-          
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Csharp"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/></code>  
+  
   
 
 Neste repositório, você encontrará projetos pessoais nos quais estou trabalhando, focados no meu aprendizado e desenvolvimento. Sinta-se à vontade para explorar e aprender com as soluções que estou criando!
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=BrenoDevSilva&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=BrenoDevSilva&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
 [![](https://visitcount.itsvg.in/api?id=BrenoDevSilva&icon=0&color=000000)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrenoDevSilva&theme=dark&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoDevSilva&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoDevSilva&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=BrenoDevSilva&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BrenoDevSilva&theme=tokyonight&hide_border=false)
 
 
 Se o código está dando “erro”, não se preocupe, estou aqui para sofrer contigo! 😄
