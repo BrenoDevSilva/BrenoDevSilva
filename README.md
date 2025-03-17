@@ -1,4 +1,4 @@
-👋 Olá, sou Breno Silva! 👋  
+# 👋 Olá, sou Breno Silva!  
 Sou um estudante de engenharia de software da Fiap!  
 - 💼 Ferramentas:
 Java | JavaScript | Python | C++ | C# | Front-end | Back-end
@@ -33,7 +33,7 @@ Neste repositório, você encontrará projetos pessoais nos quais estou trabalha
 
 Se o código está dando “erro”, não se preocupe, estou aqui para sofrer contigo! 😄
 
-📫 Me encontre em:
+# 📫 Me encontre em:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/breno.s1808/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenodevsilva/?trk=opento_sprofile_details)
